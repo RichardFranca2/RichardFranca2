@@ -1,7 +1,7 @@
 ## 🧰 Estrutura do README
 
 
-# 🚀 Olá, sou [Seu Nome]!
+# 🚀 Olá, sou Richard
 
 Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, onde estou aprendendo as seguintes tecnologias:
 
