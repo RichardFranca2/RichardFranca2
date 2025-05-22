@@ -23,8 +23,9 @@ Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, o
 
 Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho aprendido:
 - **Lógica de Programação e Algoritmos**.
-- [Complete com os outros cursos que você está cursando atualmente]
+- **Ensino medio integral**.
 
 ## 🎯 Expectativas para o Futuro
 
-[Exemplo]Com o término do curso, espero conseguir um estágio como desenvolvedor para aplicar o que aprendi em projetos reais. Meu objetivo é me tornar um...
+Com o término do curso, espero conseguir um estágio como desenvolvedor, e trabalhar na area
+
